@@ -1,7 +1,7 @@
 {
-  "name": "reactjs-basics",
+  "name": "reactjs-crud-application",
   "version": "1.0.0",
-  "description": "Some basic ReactJS",
+  "description": "This is first reactjs application demo",
   "main": "index.js",
   "scripts": {
     "start": "npm run build",
@@ -11,7 +11,7 @@
   "keywords": [
     "reactjs"
   ],
-  "author": "Maximilian Schwarzmueller",
+  "author": "Surender Singh",
   "license": "MIT",
   "dependencies": {
     "babel-core": "^6.26.3",
